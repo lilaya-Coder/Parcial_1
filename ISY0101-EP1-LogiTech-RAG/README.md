@@ -6,12 +6,12 @@
 
 ---
 
-## 📋 Descripción del Proyecto
+##  Descripción del Proyecto
 Sistema inteligente de asistencia para soporte postventa basado en **Agentes LLM (ReAct)** y una arquitectura **RAG (Retrieval-Augmented Generation)**. Permite responder consultas sobre garantías y manuales técnicos en PDF, además de consultar el estado de pedidos mediante APIs estructuradas.
 
 ---
 
-## 🛠️ Requisitos Previos e Instalación
+##  Requisitos Previos e Instalación
 
 1. **Clonar el repositorio:**
    ```bash
